@@ -3,11 +3,11 @@
   <title>Jerry的日志</title>
   
   <subtitle>Passion, Insight</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://jerrybai2022.github.io/project/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://jerrybai2022.github.io/project/"/>
   <updated>2023-04-22T12:18:12.009Z</updated>
-  <id>http://example.com/</id>
+  <id>https://jerrybai2022.github.io/project/</id>
   
   <author>
     <name>Jerry Bai</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>DB查询优化器</title>
-    <link href="http://example.com/2023/04/22/DB%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96%E5%99%A8/"/>
-    <id>http://example.com/2023/04/22/DB%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96%E5%99%A8/</id>
+    <link href="https://jerrybai2022.github.io/project/2023/04/22/DB%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96%E5%99%A8/"/>
+    <id>https://jerrybai2022.github.io/project/2023/04/22/DB%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96%E5%99%A8/</id>
     <published>2023-04-22T12:13:49.000Z</published>
     <updated>2023-04-22T12:18:12.009Z</updated>
     
@@ -36,12 +36,12 @@
     
     
     
-    <category term="数据库" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="数据库" scheme="https://jerrybai2022.github.io/project/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
     
-    <category term="DB" scheme="http://example.com/tags/DB/"/>
+    <category term="DB" scheme="https://jerrybai2022.github.io/project/tags/DB/"/>
     
-    <category term="数据库" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="数据库" scheme="https://jerrybai2022.github.io/project/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
   </entry>
   
