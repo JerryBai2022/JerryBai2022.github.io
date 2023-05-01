@@ -140,7 +140,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /images/hexo_avatar.png
+  url: https://picture-bed-1300530554.cos.ap-nanjing.myqcloud.com/pictures/hexo_icon.png
   # If true, the avatar will be displayed in circle.
   rounded: false
   # If true, the avatar will be rotated with the cursor.
