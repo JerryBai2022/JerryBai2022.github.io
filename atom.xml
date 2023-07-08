@@ -6,7 +6,7 @@
   <link href="https://jerrybai2022.github.io/atom.xml" rel="self"/>
   
   <link href="https://jerrybai2022.github.io/"/>
-  <updated>2023-04-22T12:18:12.009Z</updated>
+  <updated>2023-07-08T15:47:51.079Z</updated>
   <id>https://jerrybai2022.github.io/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Raft学习资料.md</title>
+    <link href="https://jerrybai2022.github.io/2023/07/08/Raft%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    <id>https://jerrybai2022.github.io/2023/07/08/Raft%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</id>
+    <published>2023-07-08T15:44:22.000Z</published>
+    <updated>2023-07-08T15:47:51.079Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Raft-Index"><a href="#Raft-Index" class="headerlink" title="Raft Index"></a>Raft Index</h1><p><a href="https://raft.github.io/">https://raft.github.io/</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Raft-Index&quot;&gt;&lt;a href=&quot;#Raft-Index&quot; class=&quot;headerlink&quot; title=&quot;Raft Index&quot;&gt;&lt;/a&gt;Raft Index&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://raft.github.io/&quot;&gt;http</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo多客户端备份测试</title>
+    <link href="https://jerrybai2022.github.io/2023/05/01/hexo%E5%A4%9A%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%A4%87%E4%BB%BD%E6%B5%8B%E8%AF%95/"/>
+    <id>https://jerrybai2022.github.io/2023/05/01/hexo%E5%A4%9A%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%A4%87%E4%BB%BD%E6%B5%8B%E8%AF%95/</id>
+    <published>2023-05-01T15:22:06.000Z</published>
+    <updated>2023-05-01T15:51:55.459Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="hexo多客户端备份"><a href="#hexo多客户端备份" class="headerlink" title="hexo多客户端备份"></a>hexo多客户端备份</h1><p>hexo环境打包到github，新客户端执行以下步骤即可开始hexo文章编辑：</p><ol><li>git clone -b hexo <a href="mailto:&#103;&#105;&#x74;&#64;&#x78;&#120;&#x78;&#x2e;&#103;&#105;&#116;&#104;&#x75;&#98;&#x2e;&#x63;&#x6f;&#x6d;">&#103;&#105;&#x74;&#64;&#x78;&#120;&#x78;&#x2e;&#103;&#105;&#116;&#104;&#x75;&#98;&#x2e;&#x63;&#x6f;&#x6d;</a> hexo</li><li>安装环境包：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo</span><br><span class="line">npm install hexo-cli -g</span><br><span class="line">npm install</span><br><span class="line">npm install hexo-deployer-git</span><br></pre></td></tr></table></figure>注意这一步不需要执行<code>hexo init</code>，否则会重置远端部署信息</li><li>通过命令<code>hexo g</code>和<code>hexo s</code>在本地开启同步下来的静态博客页面</li><li>提交步骤<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -m &quot;修改说明&quot;</span><br><span class="line">git push origin hexo</span><br><span class="line">hexo g -d</span><br></pre></td></tr></table></figure></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;hexo多客户端备份&quot;&gt;&lt;a href=&quot;#hexo多客户端备份&quot; class=&quot;headerlink&quot; title=&quot;hexo多客户端备份&quot;&gt;&lt;/a&gt;hexo多客户端备份&lt;/h1&gt;&lt;p&gt;hexo环境打包到github，新客户端执行以下步骤即可开始hexo文章编辑</summary>
+      
+    
+    
+    
+    <category term="环境配置" scheme="https://jerrybai2022.github.io/categories/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="配置" scheme="https://jerrybai2022.github.io/tags/%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>DB查询优化器</title>
