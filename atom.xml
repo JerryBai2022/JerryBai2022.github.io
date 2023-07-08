@@ -6,7 +6,7 @@
   <link href="https://jerrybai2022.github.io/atom.xml" rel="self"/>
   
   <link href="https://jerrybai2022.github.io/"/>
-  <updated>2023-07-08T15:47:51.079Z</updated>
+  <updated>2023-07-08T15:51:56.579Z</updated>
   <id>https://jerrybai2022.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Raft学习资料.md</title>
+    <title>Raft学习资料</title>
     <link href="https://jerrybai2022.github.io/2023/07/08/Raft%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
     <id>https://jerrybai2022.github.io/2023/07/08/Raft%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</id>
     <published>2023-07-08T15:44:22.000Z</published>
-    <updated>2023-07-08T15:47:51.079Z</updated>
+    <updated>2023-07-08T15:51:56.579Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Raft-Index"><a href="#Raft-Index" class="headerlink" title="Raft Index"></a>Raft Index</h1><p><a href="https://raft.github.io/">https://raft.github.io/</a></p>]]></content>
     
